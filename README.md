@@ -9,7 +9,7 @@
 - ⚽ I enjoy **playing football**
 - 💬 Feel free to ask me about **C#, ASP.NET Core, or anything tech-related**
 - 📫 How to reach me: [gmail](nazarimohammadmehdi6@gmail.com)
-- 📄 Know about my experiences: [Linkedin]()
+- 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/mmnazari)
 
 
 ---
