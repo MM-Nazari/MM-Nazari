@@ -21,3 +21,5 @@
 - ![SQL](https://img.shields.io/badge/SQL-%230074C6.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+- ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
