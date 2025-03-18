@@ -3,11 +3,10 @@
 ### A passionate Back-End Developer
 
 - 🎓 **Computer Engineering graduate** from AmirKabir University
-- 💼 Currently working as a **Back-End ASP.NET Developer** at Novin Investment Bank
-- 🌱 I’m currently learning **Docker, microservices, and SQL**
+- 💼 Currently working as a **Back-End ASP.NET Developer** at IranEIT
+- 🌱 I’m currently learning **Docker, Microservices, and SQL**
 - 🔭 Working on various **ASP.NET** and **Oracle APEX** projects
 - ⚽ I enjoy **playing football**
-- 💬 Feel free to ask me about **C#, ASP.NET Core, or anything tech-related**
 - 📫 How to reach me: nazarimohammadmehdi6@gmail.com
 - 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/mmnazari)
 
