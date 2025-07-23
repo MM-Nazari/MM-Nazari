@@ -3,9 +3,7 @@
 ### A passionate Back-End Developer
 
 - 🎓 **Computer Engineering graduate** from AmirKabir University
-- 💼 Currently working as a **Back-End ASP.NET Developer** at IranEIT
-- 🌱 I’m currently learning **Docker, Microservices, and SQL**
-- 🔭 Working on various **ASP.NET** and **Oracle APEX** projects
+- 🔭 Working on various **ASP.NET** projects
 - ⚽ I enjoy **playing football**
 - 📫 How to reach me: nazarimohammadmehdi6@gmail.com
 - 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/mmnazari)
